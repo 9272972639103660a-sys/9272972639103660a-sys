@@ -4,7 +4,7 @@
 
 <img src="./avatar.jpg" width="230" style="border-radius: 50%; box-shadow: 0 0 30px #9d4edd;" alt="Ryodan Spider Nefor" />
 
-### `[ 幻影旅団 // NO. 4 // CYRO ]`
+### `[ 幻影旅団 // NO. 4 // † 𝖈𝖞𝖗𝖔 † ]`
 *`"The head of the spider gives the orders, but the body moves freely."`*
 
 ---

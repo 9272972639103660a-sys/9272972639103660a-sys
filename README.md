@@ -1,57 +1,51 @@
 <div align="center">
 
-# 🕷️ 𝖌𝖊𝖓𝖊𝖎 𝖗𝖞𝖔𝖉𝖆𝖓 // 𝖕𝖍𝖆𝖓𝖙𝖔𝖒 𝖙𝖗𝖔𝖚𝖕𝖊 🕷️
+<img src="./avatar.jpg" width="100%" style="max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Misty Forest" />
 
-<img src="./avatar.jpg" width="230" style="border-radius: 50%; box-shadow: 0 0 30px #9d4edd;" alt="Ryodan Spider Nefor" />
+# Cyro
 
-### `[ 幻影旅団 // NO. 4 // † 𝖈𝖞𝖗𝖔 † ]`
-*`"The head of the spider gives the orders, but the body moves freely."`*
+`Software Engineer // Android & Systems Development`
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=550&lines=GENEI+RYODAN+MEMBER+%234;NEFOR+DRAIN+AESTHETIC;DARK+CYBER+REVERSE+ENGINEER;METEOR+CITY+%2F%2F+%E6%B5%81%E6%98%9F%E8%A1%97" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=550&lines=Android+Framework+%26+Native+Architecture;C%2B%2B+%2F%2F+Python+%2F%2F+Kotlin;Application+Security+%26+Reverse+Engineering;Performance+Optimization+%26+Tooling" />
 
 ---
 
-### 🕸️ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 // 𝕴𝖓𝖋𝖔
+</div>
 
-```yaml
-alias: cyro
-status: active
-allegiance: Phantom Troupe (Genei Ryodan / Рёдан)
-spider_tattoo: 12-legged spider #4
-location: Meteor City // 流星街
-vibe: dark anime // drain // alt // nefor // cyberpunk
-focus: Android Security, Reverse Engineering, C++, Python
-quote: "Do not touch the webs of the Phantom Troupe."
-```
+### 🌲 Overview
+
+Software engineer with a focus on Android runtime architecture, native C/C++ development, and application security. Passionate about exploring system internals, reverse engineering, and crafting clean, reliable software solutions.
+
+* 🔭 **Core Focus:** Android platform internals, NDK development, Python tooling
+* ⚙️ **Stack:** C++, Kotlin, Java, Python, CMake, Linux
+* 🛡️ **Interests:** Binary analysis, security research, performance tuning
 
 ---
 
-### ⚔️ 𝕬𝖗𝖘𝖊𝖓𝖆𝖑 // 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Android_NDK-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android NDK" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🩸 𝕾𝖕𝖎𝖉𝖊𝖗 𝕾𝖙𝖆𝖙𝖘
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9272972639103660a-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=CF6679&text_color=E1E1E1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9272972639103660a-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=CF6679&currStreakLabel=BB86FC" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9272972639103660a-sys&show_icons=true&theme=nord&hide_border=true&bg_color=1e242c&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9272972639103660a-sys&theme=nord&hide_border=true&background=1e242c&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0" width="48%" alt="Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,31&height=100&section=footer" width="100%" />
-</p>
-
+<div align="center">
+  <sub><i>"Simplicity is prerequisite for reliability."</i></sub>
 </div>

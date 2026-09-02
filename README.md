@@ -4,9 +4,9 @@
 
 # Cyro
 
-`Software Engineer // Android & Systems Development`
+`Developer // Lua & Python // Linux & Vibe Coding`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=550&lines=Android+Framework+%26+Native+Architecture;C%2B%2B+%2F%2F+Python+%2F%2F+Kotlin;Application+Security+%26+Reverse+Engineering;Performance+Optimization+%26+Tooling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=550&lines=Lua+Developer+(4+years+of+experience);Python+Development+(2+years);Linux+Enthusiast+%26+Shell+Scripting;Vibe+Coding+%26+Creative+Prototyping" />
 
 ---
 
@@ -14,30 +14,28 @@
 
 ### 🌲 Overview
 
-Software engineer with a focus on Android runtime architecture, native C/C++ development, and application security. Passionate about exploring system internals, reverse engineering, and crafting clean, reliable software solutions.
+Developer passionate about scripting, automation, and building fast, practical solutions. Focused on Lua and Python, with a strong foundation in Linux environments and modern vibe coding workflows.
 
-* 🔭 **Core Focus:** Android platform internals, NDK development, Python tooling
-* ⚙️ **Stack:** C++, Kotlin, Java, Python, CMake, Linux
-* 🛡️ **Interests:** Binary analysis, security research, performance tuning
+* 🌙 **Lua** — 4 years of experience (scripting, logic, automation)
+* 🐍 **Python** — 2 years of experience (tooling, automation, scripts)
+* 🐧 **Linux** — power user, terminal workflows, shell scripting
+* ✨ **Vibe Coding** — rapid prototyping, AI-augmented development, creating intuitive tools
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Android_NDK-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android NDK" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=9272972639103660a-sys&show_icons=true&theme=nord&hide_border=true&bg_color=1e242c&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9" width="48%" alt="Stats" />
@@ -47,5 +45,5 @@ Software engineer with a focus on Android runtime architecture, native C/C++ dev
 ---
 
 <div align="center">
-  <sub><i>"Simplicity is prerequisite for reliability."</i></sub>
+  <sub><i>"Building things with good vibes and clean code."</i></sub>
 </div>
